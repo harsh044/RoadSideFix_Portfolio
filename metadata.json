@@ -1,0 +1,7 @@
+{
+  "name": "RoadSideFix",
+  "description": "Mobile roadside vehicle repair and emergency assistance platform connecting drivers with nearby mechanics through location intelligence, live tracking, and secure payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
